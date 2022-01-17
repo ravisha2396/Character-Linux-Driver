@@ -4,7 +4,7 @@
 
 MODULE_DESCRIPTION("Simple Linux driver");
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Apriorit, Inc");
+MODULE_AUTHOR("RAVI SHANKAR");
 
 /*===============================================================================================*/
 static int simple_driver_init(void)
